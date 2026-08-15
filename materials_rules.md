@@ -182,7 +182,7 @@ rust_materials/
 |---|------|--------|
 | 15 | [Обобщённые типы (generics)](05-abstrakcii/15-obobshchennye-tipy.md) | ✅ |
 | 16 | [Трейты: `impl Trait`, trait bounds, `dyn Trait`](05-abstrakcii/16-traity.md) | ✅ |
-| 17 | Стандартные трейты и `derive` | ⬜ |
+| 17 | [Стандартные трейты и `derive`](05-abstrakcii/17-standartnye-traity-i-derive.md) | ✅ |
 | 18 | Времена жизни: `'a` и элизия | ⬜ |
 
 ### Часть 6. Функциональный стиль — `06-funkcionalnyy-stil/`
