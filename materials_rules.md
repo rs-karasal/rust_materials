@@ -217,7 +217,7 @@ rust_materials/
 ### Часть 11. Практика и экосистема — `11-praktika-i-ekosistema/`
 | № | Тема | Статус |
 |---|------|--------|
-| 28 | `serde`, JSON и работа с файлами | ⬜ |
+| 28 | [`serde`, JSON и работа с файлами](11-praktika-i-ekosistema/28-serde-i-rabota-s-faylami.md) | ✅ |
 | 29 | Экосистема: CLI на `clap`, веб на `axum` | ⬜ |
 | 30 | Финальный проект и чек-лист Rust-джуна | ⬜ |
 
