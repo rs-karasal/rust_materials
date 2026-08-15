@@ -189,7 +189,7 @@ rust_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 19 | [Замыкания: `Fn`, `FnMut`, `FnOnce`](06-funkcionalnyy-stil/19-zamykaniya.md) | ✅ |
-| 20 | Итераторы: `map`, `filter`, `fold` и свой итератор | ⬜ |
+| 20 | [Итераторы: `map`, `filter`, `fold` и свой итератор](06-funkcionalnyy-stil/20-iteratory.md) | ✅ |
 
 ### Часть 7. Качество — `07-kachestvo/`
 | № | Тема | Статус |
