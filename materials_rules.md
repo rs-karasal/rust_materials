@@ -306,7 +306,7 @@ rust_materials/
 | 01 | [Владение, перемещение, `Copy` и `Clone`](sobesedovanie/01-voprosy/01-vladenie-peremeshchenie-copy.md) | ✅ |
 | 02 | [Заимствование, borrow checker, времена жизни](sobesedovanie/01-voprosy/02-zaimstvovanie-i-vremena-zhizni.md) | ✅ |
 | 03 | [Типы, коллекции, строки](sobesedovanie/01-voprosy/03-tipy-kollekcii-stroki.md) | ✅ |
-| 04 | Трейты, обобщения, диспетчеризация | ⬜ |
+| 04 | [Трейты, обобщения, диспетчеризация](sobesedovanie/01-voprosy/04-traity-obobshcheniya-dispetcherizaciya.md) | ✅ |
 | 05 | `Option`, `Result` и обработка ошибок | ⬜ |
 | 06 | Умные указатели и внутренняя изменяемость | ⬜ |
 | 07 | Многопоточность: `Send`, `Sync`, `Arc<Mutex<T>>` | ⬜ |
