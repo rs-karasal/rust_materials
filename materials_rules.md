@@ -175,7 +175,7 @@ rust_materials/
 |---|------|--------|
 | 12 | [Коллекции: `Vec`, `HashMap`, `HashSet`](04-dannye-i-oshibki/12-kollekcii.md) | ✅ |
 | 13 | [`Result<T, E>`, оператор `?` и паника](04-dannye-i-oshibki/13-result-i-operator-voprosa.md) | ✅ |
-| 14 | Свои типы ошибок: `From`, `thiserror`, `anyhow` | ⬜ |
+| 14 | [Свои типы ошибок: `From`, `thiserror`, `anyhow`](04-dannye-i-oshibki/14-svoi-tipy-oshibok.md) | ✅ |
 
 ### Часть 5. Абстракции — `05-abstrakcii/`
 | № | Тема | Статус |
