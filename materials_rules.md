@@ -167,7 +167,7 @@ rust_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 09 | [Структуры, методы и блок `impl`](03-svoi-tipy/09-struktury-i-metody.md) | ✅ |
-| 10 | Перечисления, `Option<T>`, `match` и `if let` | ⬜ |
+| 10 | [Перечисления, `Option<T>`, `match` и `if let`](03-svoi-tipy/10-perechisleniya-option-i-match.md) | ✅ |
 | 11 | Модули, `pub` и разделение кода на файлы | ⬜ |
 
 ### Часть 4. Данные и ошибки — `04-dannye-i-oshibki/`
