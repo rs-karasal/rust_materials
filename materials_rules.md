@@ -161,7 +161,7 @@ rust_materials/
 |---|------|--------|
 | 06 | [Стек, куча и владение: три правила Rust](02-vladenie/06-stek-kucha-i-vladenie.md) | ✅ |
 | 07 | [Заимствование, ссылки и borrow checker](02-vladenie/07-zaimstvovanie-i-ssylki.md) | ✅ |
-| 08 | Срезы, `String` и `&str` | ⬜ |
+| 08 | [Срезы, `String` и `&str`](02-vladenie/08-srezy-string-i-str.md) | ✅ |
 
 ### Часть 3. Свои типы — `03-svoi-tipy/`
 | № | Тема | Статус |
