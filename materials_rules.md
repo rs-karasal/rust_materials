@@ -312,7 +312,7 @@ rust_materials/
 | 07 | [Многопоточность: `Send`, `Sync`, `Arc<Mutex<T>>`](sobesedovanie/01-voprosy/07-mnogopotochnost-send-sync.md) | ✅ |
 | 08 | [Асинхронность: `Future`, рантайм, отмена](sobesedovanie/01-voprosy/08-asinhronnost.md) | ✅ |
 | 09 | [`unsafe`, FFI и границы безопасности](sobesedovanie/01-voprosy/09-unsafe-i-ffi.md) | ✅ |
-| 10 | Производительность, компиляция, инструменты | ⬜ |
+| 10 | [Производительность, компиляция, инструменты](sobesedovanie/01-voprosy/10-proizvoditelnost-i-instrumenty.md) | ✅ |
 
 **Вопросы-ловушки — `sobesedovanie/02-kaverznye/`**
 
