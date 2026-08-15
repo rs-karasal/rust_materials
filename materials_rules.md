@@ -341,7 +341,7 @@ rust_materials/
 
 | № | Тема | Статус |
 |---|------|--------|
-| 19 | Сценарий секции: junior | ⬜ |
+| 19 | [Сценарий секции: junior](sobesedovanie/05-mok-interview/19-scenariy-junior.md) | ✅ |
 | 20 | Сценарий секции: middle | ⬜ |
 | 21 | Сценарий секции: senior | ⬜ |
 
