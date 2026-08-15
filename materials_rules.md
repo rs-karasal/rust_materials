@@ -335,7 +335,7 @@ rust_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 17 | [Проектирование API и типов на Rust](sobesedovanie/04-sistemnyy-dizayn/17-proektirovanie-api-i-tipov.md) | ✅ |
-| 18 | Где Rust уместен и где нет: компромиссы | ⬜ |
+| 18 | [Где Rust уместен и где нет: компромиссы](sobesedovanie/04-sistemnyy-dizayn/18-gde-rust-umesten.md) | ✅ |
 
 **Сценарии мок-интервью — `sobesedovanie/05-mok-interview/`**
 
