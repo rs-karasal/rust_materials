@@ -218,7 +218,7 @@ rust_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 28 | [`serde`, JSON и работа с файлами](11-praktika-i-ekosistema/28-serde-i-rabota-s-faylami.md) | ✅ |
-| 29 | Экосистема: CLI на `clap`, веб на `axum` | ⬜ |
+| 29 | [Экосистема: CLI на `clap`, веб на `axum`](11-praktika-i-ekosistema/29-ekosistema-clap-i-axum.md) | ✅ |
 | 30 | Финальный проект и чек-лист Rust-джуна | ⬜ |
 
 ---
