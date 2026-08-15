@@ -211,7 +211,7 @@ rust_materials/
 ### Часть 10. Асинхронность — `10-asinhronnost/`
 | № | Тема | Статус |
 |---|------|--------|
-| 26 | `async`/`await` и рантайм `tokio` | ⬜ |
+| 26 | [`async`/`await` и рантайм `tokio`](10-asinhronnost/26-async-await-i-tokio.md) | ✅ |
 | 27 | Конкурентность: `join!`, `select!` и типичные грабли | ⬜ |
 
 ### Часть 11. Практика и экосистема — `11-praktika-i-ekosistema/`
