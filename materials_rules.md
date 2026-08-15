@@ -319,7 +319,7 @@ rust_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 11 | [Ловушки: владение и заимствование](sobesedovanie/02-kaverznye/11-lovushki-vladenie-i-zaimstvovanie.md) | ✅ |
-| 12 | Ловушки: трейты и времена жизни | ⬜ |
+| 12 | [Ловушки: трейты и времена жизни](sobesedovanie/02-kaverznye/12-lovushki-traity-i-vremena-zhizni.md) | ✅ |
 | 13 | Ловушки: конкурентность и async | ⬜ |
 
 **Задачи на live-coding — `sobesedovanie/03-zadachi/`**
