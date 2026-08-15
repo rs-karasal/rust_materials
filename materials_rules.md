@@ -309,7 +309,7 @@ rust_materials/
 | 04 | [Трейты, обобщения, диспетчеризация](sobesedovanie/01-voprosy/04-traity-obobshcheniya-dispetcherizaciya.md) | ✅ |
 | 05 | [`Option`, `Result` и обработка ошибок](sobesedovanie/01-voprosy/05-option-result-oshibki.md) | ✅ |
 | 06 | [Умные указатели и внутренняя изменяемость](sobesedovanie/01-voprosy/06-umnye-ukazateli-i-izmenyaemost.md) | ✅ |
-| 07 | Многопоточность: `Send`, `Sync`, `Arc<Mutex<T>>` | ⬜ |
+| 07 | [Многопоточность: `Send`, `Sync`, `Arc<Mutex<T>>`](sobesedovanie/01-voprosy/07-mnogopotochnost-send-sync.md) | ✅ |
 | 08 | Асинхронность: `Future`, рантайм, отмена | ⬜ |
 | 09 | `unsafe`, FFI и границы безопасности | ⬜ |
 | 10 | Производительность, компиляция, инструменты | ⬜ |
