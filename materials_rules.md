@@ -200,7 +200,7 @@ rust_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 22 | [`Box`, `Rc`, `Deref` и `Drop`](08-umnye-ukazateli/22-box-rc-deref-drop.md) | ✅ |
-| 23 | `RefCell`, внутренняя изменяемость и циклы ссылок | ⬜ |
+| 23 | [`RefCell`, внутренняя изменяемость и циклы ссылок](08-umnye-ukazateli/23-refcell-i-vnutrennyaya-izmenyaemost.md) | ✅ |
 
 ### Часть 9. Многопоточность — `09-mnogopotochnost/`
 | № | Тема | Статус |
