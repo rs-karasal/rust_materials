@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Сборки учебных проектов на Rust
+target/
+**/target/
+
+# Редакторы
+.idea/
+.vscode/
+*.swp
