@@ -188,7 +188,7 @@ rust_materials/
 ### Часть 6. Функциональный стиль — `06-funkcionalnyy-stil/`
 | № | Тема | Статус |
 |---|------|--------|
-| 19 | Замыкания: `Fn`, `FnMut`, `FnOnce` | ⬜ |
+| 19 | [Замыкания: `Fn`, `FnMut`, `FnOnce`](06-funkcionalnyy-stil/19-zamykaniya.md) | ✅ |
 | 20 | Итераторы: `map`, `filter`, `fold` и свой итератор | ⬜ |
 
 ### Часть 7. Качество — `07-kachestvo/`
