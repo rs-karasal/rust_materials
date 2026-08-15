@@ -304,7 +304,7 @@ rust_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 01 | [Владение, перемещение, `Copy` и `Clone`](sobesedovanie/01-voprosy/01-vladenie-peremeshchenie-copy.md) | ✅ |
-| 02 | Заимствование, borrow checker, времена жизни | ⬜ |
+| 02 | [Заимствование, borrow checker, времена жизни](sobesedovanie/01-voprosy/02-zaimstvovanie-i-vremena-zhizni.md) | ✅ |
 | 03 | Типы, коллекции, строки | ⬜ |
 | 04 | Трейты, обобщения, диспетчеризация | ⬜ |
 | 05 | `Option`, `Result` и обработка ошибок | ⬜ |
