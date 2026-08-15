@@ -180,7 +180,7 @@ rust_materials/
 ### Часть 5. Абстракции — `05-abstrakcii/`
 | № | Тема | Статус |
 |---|------|--------|
-| 15 | Обобщённые типы (generics) | ⬜ |
+| 15 | [Обобщённые типы (generics)](05-abstrakcii/15-obobshchennye-tipy.md) | ✅ |
 | 16 | Трейты: `impl Trait`, trait bounds, `dyn Trait` | ⬜ |
 | 17 | Стандартные трейты и `derive` | ⬜ |
 | 18 | Времена жизни: `'a` и элизия | ⬜ |
