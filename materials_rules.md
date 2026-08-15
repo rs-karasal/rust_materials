@@ -199,7 +199,7 @@ rust_materials/
 ### Часть 8. Умные указатели — `08-umnye-ukazateli/`
 | № | Тема | Статус |
 |---|------|--------|
-| 22 | `Box`, `Rc`, `Deref` и `Drop` | ⬜ |
+| 22 | [`Box`, `Rc`, `Deref` и `Drop`](08-umnye-ukazateli/22-box-rc-deref-drop.md) | ✅ |
 | 23 | `RefCell`, внутренняя изменяемость и циклы ссылок | ⬜ |
 
 ### Часть 9. Многопоточность — `09-mnogopotochnost/`
