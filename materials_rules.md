@@ -310,7 +310,7 @@ rust_materials/
 | 05 | [`Option`, `Result` и обработка ошибок](sobesedovanie/01-voprosy/05-option-result-oshibki.md) | ✅ |
 | 06 | [Умные указатели и внутренняя изменяемость](sobesedovanie/01-voprosy/06-umnye-ukazateli-i-izmenyaemost.md) | ✅ |
 | 07 | [Многопоточность: `Send`, `Sync`, `Arc<Mutex<T>>`](sobesedovanie/01-voprosy/07-mnogopotochnost-send-sync.md) | ✅ |
-| 08 | Асинхронность: `Future`, рантайм, отмена | ⬜ |
+| 08 | [Асинхронность: `Future`, рантайм, отмена](sobesedovanie/01-voprosy/08-asinhronnost.md) | ✅ |
 | 09 | `unsafe`, FFI и границы безопасности | ⬜ |
 | 10 | Производительность, компиляция, инструменты | ⬜ |
 
