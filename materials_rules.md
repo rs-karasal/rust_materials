@@ -326,7 +326,7 @@ rust_materials/
 
 | № | Тема | Статус |
 |---|------|--------|
-| 14 | Задачи уровня junior | ⬜ |
+| 14 | [Задачи уровня junior](sobesedovanie/03-zadachi/14-zadachi-junior.md) | ✅ |
 | 15 | Задачи уровня middle | ⬜ |
 | 16 | Задачи на конкурентность и async | ⬜ |
 
