@@ -173,7 +173,7 @@ rust_materials/
 ### Часть 4. Данные и ошибки — `04-dannye-i-oshibki/`
 | № | Тема | Статус |
 |---|------|--------|
-| 12 | Коллекции: `Vec`, `HashMap`, `HashSet` | ⬜ |
+| 12 | [Коллекции: `Vec`, `HashMap`, `HashSet`](04-dannye-i-oshibki/12-kollekcii.md) | ✅ |
 | 13 | `Result<T, E>`, оператор `?` и паника | ⬜ |
 | 14 | Свои типы ошибок: `From`, `thiserror`, `anyhow` | ⬜ |
 
