@@ -206,7 +206,7 @@ rust_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 24 | [Потоки и каналы `mpsc`](09-mnogopotochnost/24-potoki-i-kanaly.md) | ✅ |
-| 25 | `Arc`, `Mutex`, `Send` и `Sync` | ⬜ |
+| 25 | [`Arc`, `Mutex`, `Send` и `Sync`](09-mnogopotochnost/25-arc-mutex-send-sync.md) | ✅ |
 
 ### Часть 10. Асинхронность — `10-asinhronnost/`
 | № | Тема | Статус |
